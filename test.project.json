@@ -1,0 +1,21 @@
+{
+    "name": "Say",
+    "tree": {
+      "$className": "DataModel",
+      "ReplicatedStorage": {
+        "Packages": {
+          "$path": "Packages",
+
+          "Say": {
+            "$path": "src"
+          }
+        }
+      },
+
+      "ServerScriptService": {
+        "Tests": {
+          "$path": "Tests"
+        }
+      }
+    }
+  }

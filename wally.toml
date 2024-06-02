@@ -1,0 +1,13 @@
+[package]
+name = "7kayoh/say"
+author = ["7kayoh", "kitsuu-ne"]
+license = "MIT
+description = "Say what? Say is an agnostic dialogue library and is used with your front end together"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Signal = "sleitnick/signal@2.0.1"
+Dash = "ukendio/dash@0.1.9"
+Symbol = "jsdotlua/symbol-luau@1.0.1"
